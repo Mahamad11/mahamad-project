@@ -70,8 +70,13 @@ body{
     margin-left: 120px;
 }
 span{
-    margin-left: 398px;
+    margin-left: 380px;
     font-size: 50px;
     color: white;
     display: block;
+    margin-top: 20px;
+}
+#fast{
+    margin-left: 120px;
+    margin-top: 20px;
 }
