@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    }
+  body{
+    font-family: montserrat;
+    background: #252839;
+    display: flex;
+  margin-left: 1090px;
+  margin-top: 580px;
+    }
+      a{
+        text-align: center;
+        font-size: 50px;
+        color: white;
+        margin-left: 60px;
+      }
+      div{
+        display: inline;
+        }
+        a:hover{
+          background-color: rgb(20, 117, 243);
+          transition: 1s;
+  
+        }
+        @media only screen and (max-width: 600px) {
+          body {
+            background: rgb(29, 19, 19);
+            display: flex;
+            font-family: montserrat;
+            background: #252839;
+  margin-left: 19px;
+  margin-top: 250px;
+          }
+  
+          a{
+            font-size: 40px;
+            color: white;
+  margin-top: 100px;
+            margin-left: 65px;
+            display: block;
+          }
+        a:hover{
+          background-color: rgb(20, 117, 243);
+          transition: 1s;
+        
+        }
+  
+        }
